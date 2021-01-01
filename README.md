@@ -1,5 +1,6 @@
 # Cancer-rates-by-US-County---analisys-and-prediction 
 
+Data source: https://data.world/nrippner/ols-regression-challenge
 Dataset info:
 Dataset contains informations on cancer case and death rates as well as various socioeconomic variables, such as median income, poverty percent or percentage
 of minority citizens on county level for United States
