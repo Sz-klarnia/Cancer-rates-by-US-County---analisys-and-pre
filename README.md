@@ -6,6 +6,6 @@ Dataset contains informations on cancer case and death rates as well as various 
 of minority citizens on county level for United States
 
 Project info:
-Main goal of this project was to analyse how socioeconomical status is connected to cancer inicidence and death rates. I was interested in the relationship
-between income and poverty levels, percentage of black population, healthcare provider and cancer statistics. Project consists of various visualisations and calculations aimed at presenting these relations.
-Additionaly an OLS regression model was created to predict cancer deathrates
+Project contains quantitative analyses of relations between percentage of black population, median income and poverty rates and healthcare insurance provider. Results show that poverty rates and median income are heavily correlated with cancer death and incidence rates, indicating that poorer citizens have worse access to healthcare. It;s also correlated with percentage of black population, showing lingering inequalities between race groups in united states. Partialy because of this black majority counties have also worse cancer rates. Additionaly analyses shown, that populations with higher percentage of public health insurance (who are also poorer) have worse cancer rates. In the US health system poorer people have worse access to quality healthcare.
+
+Additionaly a regression model was created to predict cancer deathrates in US Counties
